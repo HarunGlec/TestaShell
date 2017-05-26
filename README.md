@@ -90,7 +90,7 @@ User can run the script by 2 ways:
 
 #### **History**
 
-User can see last 20 previous commands with SIGQUIT (ctrl+\) and these
+User can see last 20 previous commands with SIGQUIT (ctrl+\\) and these
 commands save in home folder as testa_history.
 
 
